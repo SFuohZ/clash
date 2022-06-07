@@ -1,7 +1,5 @@
 # 直连列表
 
-#个人需要直连未收录网站
-DOMAIN-SUFFIX,cmdw.vip
 # MyList
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
